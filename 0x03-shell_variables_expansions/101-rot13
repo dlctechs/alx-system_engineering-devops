@@ -1,0 +1,4 @@
+table File  2 lines (2 sloc)  41 Bytes
+
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
